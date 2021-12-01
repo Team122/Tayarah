@@ -1,0 +1,3 @@
+Dress Black Female S 500 1 /Users/amna_elsaqa/Desktop/QTProjects/Tayarah/blackDress.jpg
+T-shirt Blue Male L 250 2 /Users/amna_elsaqa/Desktop/QTProjects/Tayarah/Men's Tshirt.jpg
+Jeans Blue Female M 400 3 /Users/amna_elsaqa/Desktop/QTProjects/Tayarah/Women's Jeans.jpg
